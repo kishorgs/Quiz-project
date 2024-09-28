@@ -11,16 +11,22 @@ A simple quiz application built using HTML, CSS, and JavaScript. Users can selec
 
 ## Screenshots
 
-<img src="img/1.png" alt="Home page"/>
+Page to enter username
+<img src="img/1.png" alt="Enter name"/>
 
+Page to select class
 <img src="img/2.png" alt="Home page"/>
 
+Page to select chapter
 <img src="img/3.png" alt="Home page"/>
 
+Question answer page
 <img src="img/4.png" alt="Home page"/>
 
+Question answer page 
 <img src="img/5.png" alt="Home page"/>
 
+Result page
 <img src="img/6.png" alt="Home page"/>
 
 ## Installation
